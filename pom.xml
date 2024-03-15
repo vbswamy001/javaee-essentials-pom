@@ -4,7 +4,7 @@
     <groupId>com.airhacks</groupId>
     <artifactId>javaee7-essentials-pom</artifactId>
     <version>7.0</version>
-    <packaging>war</packaging>
+    <packaging>ear</packaging>
     <dependencies>
         <dependency>
             <groupId>javax</groupId>
